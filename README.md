@@ -92,4 +92,4 @@ The notebook reads the raw CSV from `data/raw/` and exports the cleaned dataset 
 
 **Vignani Erram**
 
-This is an independent learning and portfolio project. Only mark a stage complete after you have personally reviewed and can explain its work.
+This is an independent learning and portfolio project. 
